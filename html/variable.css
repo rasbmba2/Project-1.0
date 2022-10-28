@@ -1,11 +1,9 @@
 ul {
-    font-size: 14;
-    color:red;
+  font-size: 14;
+  color: green;
 }
 
 ol {
-    font-size: 18px;
-    color: red;
+  font-size: 18px;
+  color: green;
 }
-
-/*# sourceMappingURL=variable.css.map */

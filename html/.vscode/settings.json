@@ -1,2 +1,3 @@
 {
+  "sass.andStared": ["active", "focus", "hover", "nth-child"]
 }
